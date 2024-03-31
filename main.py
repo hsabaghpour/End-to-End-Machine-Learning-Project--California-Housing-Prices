@@ -28,6 +28,6 @@ model.fit(X, y)
 X_new = [[37_655.2]]  # Cyprus' GDP per capita in 2020
 print(model.predict(X_new)) # output: [[6.30165767]]
 
-# repeat the model for 3 time
+# repeat the model for 3 times
 
 
